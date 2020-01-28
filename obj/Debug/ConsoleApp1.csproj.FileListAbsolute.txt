@@ -1,0 +1,6 @@
+D:\Учеба\Practise\Фабричный метод\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Учеба\Practise\Фабричный метод\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Учеба\Practise\Фабричный метод\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Учеба\Practise\Фабричный метод\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\Учеба\Practise\Фабричный метод\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Учеба\Practise\Фабричный метод\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
